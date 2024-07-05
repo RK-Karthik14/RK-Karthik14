@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Karthik from India<br><br>- 📚 I'm currently learning 2nd Year Computer Science Engineering<br>- ⚡ In my free time I try to know new things</p>
+<p align="left">I'm Karthik from India<br><br>- 📚 I'm currently learning 3rd Year Computer Science Engineering<br>- ⚡ In my free time I try to know new things</p>
 
 ###
 
